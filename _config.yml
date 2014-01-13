@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            xergio
+tagline:          'Sitio personal'
+description:      'Sitio personal de Sergio Álvarez Muñoz'
+url:              http://xergio.net
+
+author:
+  name:           'Sergio Álvarez Muñoz'
+  url:            https://twitter.com/xergio
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/xergio
